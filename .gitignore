@@ -122,3 +122,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+node_modules/
+.terraform/
+.terraform.lock.hcl
+dashboard/dist/
